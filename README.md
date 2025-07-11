@@ -15,14 +15,13 @@ This paper reviews the integration of Data Distribution Service (DDS) in Smart T
 
 ## 📚 Citation
 ```bibtex
-@article{abualhassan2025dds,
+@article{al2025integrating,
   title={Integrating Data Distribution Service (DDS) in Smart Traffic Systems: A Comprehensive Review},
   author={Al-Madani, Basem and Hasan, Shihab and Abualhassan, Amer and Aliyu, Farouq},
-  journal={IEEE Computer},
+  journal={Computer},
   volume={58},
   number={2},
-  pages={25-34},
+  pages={25--34},
   year={2025},
-  publisher={IEEE},
-  doi={10.1109/MC.2024.3479915}
+  publisher={IEEE}
 }
